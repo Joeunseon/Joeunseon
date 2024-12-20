@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=300&section=header&text=Hi%20there%20👋&fontSize=70&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=300&section=header&text=Hi%20there%20👋&fontSize=70&fontColor=fff&reversal=true" />
 </p>
 
 <br>
@@ -38,7 +38,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
      <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p><br>
+</p>
+
+<br>
 
 <p align="center">
     ⚡Used at least once or have basic knowledge.
@@ -49,7 +51,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-</p><br>
+</p>
+
+<br>
 
 <p align="center">
     <strong>🧰 Tools I Use 🧰</strong><br>
@@ -65,3 +69,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
+<br>
