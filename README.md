@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=300&section=header&text=Hi there 👋&fontSize=70&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=300&section=header&text=Hi%20there%20👋&fontSize=70&fontColor=fff" />
 </p>
 
 <br>
